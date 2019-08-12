@@ -4,7 +4,7 @@ Linki is an open standard for physical medium of digital content.
 
 Linki is a rectangular object of any material linking to online content through a NFC tag. Everybody are free to create, release, sell their own linkies for music, video, streams, games, apps etc. Linki is built on the technologies of the web - it uses URLs and NFC to combine the physical and virtual worlds.
 
-Linkies are usable with smartphones with NFC support or with open hardware linki players. 
+Linkies are usable with smartphones with NFC support or with [open hardware linki players](https://github.com/timotoots/linki_players).
 
 Linki is an open source design project initiated by artist [Timo Toots](https://www.timo.ee) and his [Studio Maajaam](https://www.maajaam.ee). Collaborators welcome to join!
 
