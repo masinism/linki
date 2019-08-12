@@ -8,29 +8,30 @@ Linkies are usable with smartphones with NFC support or with open hardware linki
 
 Linki is an open source design project initiated by artist Timo Toots and his Studio Maajaam. Collaborators welcome to join!
 
-# Guidelines
+# Physical properties
 
-The basic guidelines that make up a linki are following:
-* Physical object from any material like wood, cardboard, metal etc. It’s better if the material is recycable. Plastics are not encouraged!
-* Size 90x90mm, maximum thickness 4mm.
-* Size 3.54" x 3.54", max thickness 0.157".
+Linki is a physical object from any material like wood, cardboard, metal etc* with following dimensions:
+
+* Size 90x90mm (3.54" x 3.54")
+* Maximum thickness 4mm (0.157")
+
+* Recyclable materials are prefferred
 
 ## URL
-* URL is stored in three ways (use all if possible):        
-1. NFC tag        
-2. QR-code        
-3. Printed as text
+URL can be stored in three ways:        
+1. NFC tag (obligatory)        
+2. QR-code (optional)        
+3. Printed as text (optional)  
+
 
 ## Design
-The design of the linki is free. There are four graphic elements to create more or less linki resemblance:
+The design of the linki is open for creativity. There are four design elements that could be used:
 1. downward arrow
 2. rectangular hole
 3. two vertical lines
 4. top right corner is cut
 
-
 # NFC
-
-The URL should be written on the NFC chip as message in NFC Data Exchange Format (NDEF).
+The URL should be written on the NFC chip as a message in (NFC Data Exchange Format (NDEF))[https://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef].
 
 The NFC tag should be positioned so it’s vertical center is 23mm from bottom edge and horizontally it’s centered.
