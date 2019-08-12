@@ -6,7 +6,7 @@ Linki is a rectangular object of any material linking to online content through 
 
 Linkies are usable with smartphones with NFC support or with open hardware linki players. 
 
-Linki is an open source design project initiated by artist Timo Toots and his Studio Maajaam. Collaborators welcome to join!
+Linki is an open source design project initiated by artist [Timo Toots](https://www.timo.ee) and his [Studio Maajaam](https://www.maajaam.ee). Collaborators welcome to join!
 
 ![preview](https://github.com/timotoots/linki_standard/raw/master/linki_preview.png)
 
@@ -39,6 +39,6 @@ The URL should be written on the NFC chip as a message in [NFC Data Exchange For
 The NFC tag should be positioned so it’s vertical center is 23mm from bottom edge and horizontally it’s centered.
 
 # License and permissions
-The standard and it's materials are released under CC BY-SA license.
+The standard and it's materials are released under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 Everybody are free to create linkies for commercial or non-commercial purposes, even without referring to the standard.
