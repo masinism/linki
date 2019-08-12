@@ -13,13 +13,15 @@ Linki is an open source design project initiated by artist Timo Toots and his St
 The basic guidelines that make up a linki are following:
 * Physical object from any material like wood, cardboard, metal etc. It’s better if the material is recycable. Plastics are not encouraged!
 * Size 90x90mm, maximum thickness 4mm.
-* Size 0.354" x 0.354", max thickness 0.157".
+* Size 3.54" x 3.54", max thickness 0.157".
 
+## URL
 * URL is stored in three ways (use all if possible):        
 1. NFC tag        
 2. QR-code        
 3. Printed as text
 
+## Design
 The design of the linki is free. There are four graphic elements to create more or less linki resemblance:
 1. downward arrow
 2. rectangular hole
