@@ -32,6 +32,6 @@ The design of the linki is open for creativity. There are four design elements t
 4. top right corner is cut
 
 # NFC
-The URL should be written on the NFC chip as a message in (NFC Data Exchange Format (NDEF))[https://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef].
+The URL should be written on the NFC chip as a message in [NFC Data Exchange Format (NDEF)](https://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef).
 
 The NFC tag should be positioned so it’s vertical center is 23mm from bottom edge and horizontally it’s centered.
