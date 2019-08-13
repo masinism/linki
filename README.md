@@ -8,6 +8,8 @@ Linkies are usable with smartphones with NFC support or with [open hardware link
 
 Linki is an open source design project initiated by artist [Timo Toots](https://www.timo.ee) and his [Studio Maajaam](https://www.maajaam.ee). Collaborators welcome to join!
 
+[Website of Linki project](https://www.linki.cc)
+
 ![preview](https://github.com/timotoots/linki_standard/raw/master/linki_preview.png)
 
 # Physical properties
