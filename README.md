@@ -1,5 +1,8 @@
 # Linki Standard
 
+
+![preview](6073691566546710528.jpg)
+
 Linki is an open standard for physical medium of digital content.
 
 Linki is a rectangular object of any material linking to online content through a NFC tag. Everybody are free to create, release, sell their own linkies for music, video, streams, games, apps etc. Linki is built on the technologies of the web - it uses URLs and NFC to combine the physical and virtual worlds.
@@ -10,7 +13,7 @@ Linki is an open source design project initiated by artist [Timo Toots](https://
 
 [Website of Linki project](https://www.linki.cc)
 
-![preview](https://github.com/timotoots/linki_standard/raw/master/linki_preview.png)
+![preview](linki_preview.png)
 
 # Physical properties
 
