@@ -1,4 +1,4 @@
-# Linki Standard
+# Linki Standard - NFC based physical media format
 
 
 ![preview](6073691566546710528.jpg)
