@@ -9,7 +9,7 @@ Linki is a rectangular object of any material linking to online content through 
 
 Linkies are usable with smartphones with NFC support or with [open hardware linki players](https://github.com/timotoots/linki_players).
 
-Linki is an open source design project initiated by artist [Timo Toots](https://www.timo.ee) and his [Studio Maajaam](https://www.maajaam.ee). Collaborators welcome to join!
+Linki is an open source design project initiated by artist [Timo Toots](https://www.timo.ee) and his [Studio Masinism](https://www.masinism.ee). Collaborators welcome to join!
 
 [Website of Linki project](https://www.linki.cc)
 
